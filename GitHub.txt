@@ -1,0 +1,7 @@
+echo "# Aquatic-PlantoPedia-Server" >> README.md
+git init
+git add .
+git commit -m "chore: setup TypeScript backend project structure"
+git branch -M main
+git remote add origin https://github.com/Asmual/Aquatic-PlantoPedia-Server.git
+git push -u origin main
