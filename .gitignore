@@ -13,3 +13,9 @@ coverage/
 .idea/
 
 config.bat
+
+.vscode/
+api.js
+director.js
+.env
+.env.local
